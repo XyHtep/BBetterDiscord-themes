@@ -1,2 +1,3 @@
-# BBetterDiscord-themes
-Stash for my css's
+# Hunter themes
+
+Here i'll leave my css's source code
