@@ -1,0 +1,260 @@
+/**
+*@name Zero Two
+*@version 1.0.0
+*@author Hunter
+*@description Requested by my guild.
+*/
+
+#app-mount .app-2rEoOp {
+  background-color: transparent;
+  background-size: cover;
+  background-image: url(https://images2.alphacoders.com/904/thumb-1920-904635.jpg);
+}
+
+/*-----backGroundImg.viewInit-----*/
+/*--settingsSection--*/
+.layers-3iHuyZ {
+  background-color: rgba(0,0,0,.7);
+}
+
+.standardSidebarView-3F1I7i {
+  background-color: rgba(0, 0, 0, .4);
+}
+
+.standardSidebarView-3F1I7i,
+.sidebarRegionScroller-3MXcoP,
+.contentRegion-3nDuYy,
+.bg-h5JY_x,
+.theme-dark .layer-3QrUeG,
+.contentRegionScroller-26nc1e,
+.scroller-305q3I {
+  background-color: transparent;
+}
+
+.separator-gCa7yv, .divider-J3ken9, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+  background-color: transparent;
+}
+
+.theme-dark .bottomDivider-1K9Gao {
+  border-bottom-color: transparent;
+}
+
+.theme-dark .paginator-166-09 {
+  background: transparent;
+}
+
+.theme-dark .payment-xT17Mq, .theme-dark .paymentPane-3bwJ6A, .theme-dark .summaryInfo-2QFKUg {
+  background-color: transparent;
+  color: white;
+}
+
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+  background-color: rgba(0, 0, 0, .23);
+  border-color: transparent;
+}
+
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+  background: none;
+  border-color: transparent;
+}
+
+.userSettingsVoice-iwdUCU .media-engine-video {
+  background-color: transparent;
+}
+
+#app-mount .gameNameInput-385LoS:focus, #app-mount .gameNameInput-385LoS:hover {
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, .46);
+  padding: 3px 6px;
+}
+/*-----mainSection-----*/
+.container-PNkimc, .sidebar-2K8pFh, .panels-j1Uci_, .chat-3bRxxu, .messages-3amgkR {
+  background-color: transparent;
+}
+
+.theme-dark .container-1r6BKw {
+  color: white;
+  background-color: rgba(0, 0, 0, .375);
+  box-shadow: none;
+}
+.scroller-2FKFPG {
+  background-color: transparent;
+}
+
+.separator-42rNt0 {
+  background-color: transparent;
+}
+
+.childWrapper-anI2G9 {
+  background-color: transparent;
+  color: white;
+}
+
+.progress-3Rbvu0[style*="background-color: rgb(233, 231, 231);"] {
+  background-color: transparent !important;
+}
+
+.theme-dark .attachment-33OFj0, .embedFull-2tM8--, .wrapper-35wsBm {
+  border-color: transparent;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .checkboxContainer-2vV9zd:before {
+  background-color: transparent;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--next, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--previous {
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, .3);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+  background-color: transparent;
+}
+
+.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
+  background-color: rgba(0, 0, 0, .46);
+  border-color: transparent;
+}
+
+.privateChannels-1nO12o, .scroller-1JbKMe, .theme-dark .container-1D34oG,
+.nowPlayingColumn-2sl4cE, .scroller-1IIF0A, .scroller-2XE8rp, .applicationStore-1pNvnv,
+.scroller-9moviB {
+  background: none;
+}
+
+.theme-dark .children-19S4PO:after, .theme-dark .form-2fGMdU:before, .theme-dark .option-96V44q.selected-rZcOL-:after,
+.theme-dark .option-96V44q:after, .divider-3FBTu8 {
+  background: none;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 43, 93, 0.225);
+  border-color: transparent;
+  border-width: 3px;
+}
+
+.scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar, .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar {
+  width: 0;
+}
+
+.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 43, 93, 0.225);
+  border-width: 3px;
+}
+
+.scroller-2FKFPG::-webkit-scrollbar-thumb, .scroller-2FKFPG::-webkit-scrollbar-track {
+  border-radius: 4px;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+  background-color: transparent;
+  border: none;
+  border-radius: 3px;
+}
+
+.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
+.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, 
+.theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
+.theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.scrollableContainer-2NUZem {
+  background-color: transparent;
+}
+
+.status-1WEaea.voice-3bPYC- {
+  background-color: #9b2742;
+  border-radius: 4px;
+}
+
+.root-SR8cQa {
+  background-color: transparent;
+  background: linear-gradient(342deg, rgba(0,0,0,1) 10%, #9b2742 100%);
+}
+/*-----secondarySection-----*/
+.theme-dark .keybindShortcutTipsSelect-HDyfe8:last-of-type:before, .scroller-zPkAnE {
+  background-color: transparent;
+}
+
+.expandedFolderBackground-2sPsd- {
+  border-radius: 4px;
+  background-color: transparent !important;
+}
+
+.theme-dark .pageWrapper-1PgVDX {
+  background-color: transparent;
+}
+
+.theme-dark .searchBox-3Y2Vi7 {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.guildSeparator-3s64Iy, .scroller-2TZvBN, .wrapper-1Rf91z {
+  background: none;
+}
+/*backGroundImg.viewEnd*/
+
+.channelTextArea-rNsIhG {
+  background-color: rgba(0, 0, 0, .4);
+}
+.members-1998pB {
+  background-color: rgba(0, 0, 0, .235);
+}
+
+.stickyHeader-1pqx0j, .header-2o-2hj, .container-3baos1, .container-1giJp5 {
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: none;
+}
+
+.scroller-2TZvBN {
+  background-color: rgba(0, 0, 0, .275);
+}
+
+.searchBar-6Kv8R2 {
+  background-color: rgba(0, 0, 0, .38);
+}
+
+.header-2RyJ0Y,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    font-size: 16px;
+    font-weight: 525;
+    text-transform: capitalize;
+    color: rgba(196, 0, 65, 0.781);
+}
+
+.headerText-2F0828 {
+  color: rgb(192, 35, 140);
+}
+
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: rgba(255, 128, 255, 0.242) !important;
+}
+.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
+    background-color: rgba(255, 128, 255, 0.125);
+}
+.side-8zPYf6 .item-PXvHYJ,
+#bd-settings-sidebar .ui-tab-bar-item {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 6px;
+}
+
+.cardPrimary-1Hv-to, 
+.cardPrimaryEditable-3KtE4g {
+    border-color: #580025;
+}
