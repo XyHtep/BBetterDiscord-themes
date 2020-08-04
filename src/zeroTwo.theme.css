@@ -1,6 +1,6 @@
 /**
 *@name Zero Two
-*@version 1.0.3
+*@version 1.1.2
 *@author Hunter
 *@description Requested by my guild.
 */
@@ -313,4 +313,13 @@
 .userPopout-3XzG_A  .scroller-2FKFPG,
 .userPopout-3XzG_A  .footer-1fjuF6 {
   z-index: 1;
+}
+
+.styleFlexible-wGDiIL,
+.container-3cGP6G,
+.submenu-2-ysNh {
+    border-radius: 12px;
+    background-color: black;
+    border: 2px solid #580025;
+    box-shadow: none;
 }
