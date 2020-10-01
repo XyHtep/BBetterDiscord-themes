@@ -292,6 +292,10 @@
   border-color: #580025;
 }
 
+.theme-dark .closeButton-1tv5uR:hover {
+  background-color: #97003fb6;
+}
+
 .userPopout-3XzG_A {
   box-shadow: none;
   border-radius: 17px;
@@ -311,7 +315,9 @@
   background: #00db4d77;
 }
 
-.theme-dark .body-3iLsc4, .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
+.theme-dark .body-3iLsc4,
+.theme-dark .bodyInner-245q0L,
+.theme-dark .footer-1fjuF6 {
   background-color: rgba(0, 0, 0, 0.47);
   color: white;
 }
@@ -363,6 +369,10 @@
 
 .lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
   color: #fff;
-  background-color: rgba(206, 107, 165, 0.137);
+  background-color: transparent;
   border: 2px solid #580025;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: #97003fb6;
 }
