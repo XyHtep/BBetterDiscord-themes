@@ -1,6 +1,6 @@
 /**
 *@name Zero Two
-*@version 1.1.4
+*@version 1.1.5
 *@author Hunter
 *@description Requested by my guild.
 */
@@ -188,9 +188,11 @@
   background-color: transparent;
 }
 
-.expandedFolderBackground-2sPsd- {
-  border-radius: 4px;
-  background-color: transparent !important;
+.theme-dark .expandedFolderBackground-2sPsd-,
+.theme-dark .expandedFolderBackground-2sPsd-.hover-2ji_A7 {
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.327);
+  height: 99%;
 }
 
 .theme-dark .pageWrapper-1PgVDX {
@@ -268,9 +270,13 @@
   border-radius: 6px;
 }
 
-.cardPrimary-1Hv-to, 
-.cardPrimaryEditable-3KtE4g {
-    border-color: #580025;
+.background-1QDuV2 {
+  background-color: rgba(0, 0, 0, 0.407);
+  border: 2px solid #580025;
+}
+
+.fieldList-21DyL8 {
+  background-color: rgba(0, 0, 0, 0.407);
 }
 
 .base-PmTxvP {
@@ -313,6 +319,10 @@
 
 .headerSpotify-zpWxgT {
   background: #00db4d77;
+}
+
+.headerStreaming-2FjmGz {
+  background: rgba(65, 20, 113, 0.575);
 }
 
 .theme-dark .body-3iLsc4,
@@ -374,5 +384,35 @@
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: #97003fb6;
+}
+
+.theme-dark .folder-21wGz3,
+.theme-dark .folder-21wGz3.hover-2ji_A7 {
+  background-color: rgba(0, 0, 0, 0.427);
+}
+
+.folderIconWrapper-226oVY {
+  border-radius: 0px;
+  overflow: visible;
+}
+
+.circleIconButton-jET_ig {
+  color: #580025;
+  border: 2px solid #580025 !important;
+  background-color: #97003f11;
+  border-radius: 40px !important;
+}
+
+.avatarUploaderInner-3UNxY3 {
+  background-color: transparent;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+  background-color: transparent;
+  border: 2px solid #580025;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
   background-color: #97003fb6;
 }
