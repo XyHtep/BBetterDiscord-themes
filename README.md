@@ -1,3 +1,3 @@
 # Hunter themes
 
-My collection of css themes for [Bandage Better Discord](https://betterdiscord.net) addon
+My collection of css themes for [Bandaged Better Discord](https://betterdiscord.net) addon
