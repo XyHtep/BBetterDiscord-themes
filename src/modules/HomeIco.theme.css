@@ -8,7 +8,7 @@
 */
 
 .tutorialContainer-1v44GL .listItem-2P_4kh .listItemWrapper-3X98Pc .wrapper-25eVIn {
-    background: url('https://xyhtep.github.io/BBetterDiscord-themes/assets/images/SmolAyame.png') !important;
+    background: var(--home-icon) !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
     background-size: 100% !important;
