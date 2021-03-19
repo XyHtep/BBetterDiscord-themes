@@ -1,0 +1,20 @@
+/**
+ * @name AyameHomeIco
+ * @description [DATA EXPUNGED]
+ * @author BigHunterARG
+ * @authorId 429389332466368514
+ * @authorLink https://dsc.bio/BigHunterARG
+ * @version 1.0
+*/
+
+.tutorialContainer-1v44GL .listItem-2P_4kh .listItemWrapper-3X98Pc .wrapper-25eVIn {
+    background: url('https://xyhtep.github.io/BBetterDiscord-themes/assets/images/SmolAyame.png') !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: 100% !important;
+    border-radius: 100%;
+}
+
+.tutorialContainer-1v44GL .listItem-2P_4kh .listItemWrapper-3X98Pc .wrapper-25eVIn svg {
+    opacity: 0;
+}
