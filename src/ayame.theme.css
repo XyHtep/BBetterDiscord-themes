@@ -1,0 +1,420 @@
+/**
+*@name Ayame Nakiri
+*@version 1.0.0
+*@author Hunter
+*@description Requested by Gorito.
+*/
+
+#app-mount .app-2rEoOp {
+  background-color: transparent;
+  background-size: cover;
+  background-image: url(https://cdn.discordapp.com/attachments/709884907186421798/825122844131328050/1611692484_31.jpg);
+}
+
+/*-----backGroundImg.viewInit-----*/
+/*--settingsSection--*/
+.layers-3iHuyZ {
+  background-color: rgba(0,0,0,.7);
+}
+
+.standardSidebarView-3F1I7i {
+  background-color: rgba(0, 0, 0, .4);
+}
+
+.standardSidebarView-3F1I7i,
+.sidebarRegionScroller-3MXcoP,
+.contentRegion-3nDuYy,
+.bg-h5JY_x,
+.theme-dark .layer-3QrUeG,
+.contentRegionScroller-26nc1e,
+.scroller-305q3I {
+  background-color: transparent;
+}
+
+.separator-gCa7yv, .divider-J3ken9, .theme-dark #bd-settings-sidebar .ui-tab-bar-separator {
+  background-color: transparent;
+}
+
+.theme-dark .bottomDivider-1K9Gao {
+  border-bottom-color: transparent;
+}
+
+.theme-dark .paginator-166-09 {
+  background: transparent;
+}
+
+.theme-dark .payment-xT17Mq, .theme-dark .paymentPane-3bwJ6A, .theme-dark .summaryInfo-2QFKUg {
+  background-color: transparent;
+  color: white;
+}
+
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+  background-color: rgba(0, 0, 0, .23);
+  border-color: transparent;
+}
+
+.theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC {
+  background: none;
+  border-color: transparent;
+}
+
+.userSettingsVoice-iwdUCU .media-engine-video {
+  background-color: transparent;
+}
+
+#app-mount .gameNameInput-385LoS:focus, #app-mount .gameNameInput-385LoS:hover {
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, .46);
+  padding: 3px 6px;
+}
+/*-----mainSection-----*/
+.container-3w7J-x, .sidebar-2K8pFh, .panels-j1Uci_, .chat-3bRxxu, .messages-3amgkR {
+  background-color: transparent;
+}
+
+.clickable-25tGDB .header-2V-4Sw,
+.theme-dark .container-1r6BKw {
+  color: white;
+  background-color: rgba(0, 0, 0, .375);
+  box-shadow: none;
+}
+.scroller-2FKFPG {
+  background-color: transparent;
+}
+
+.separator-42rNt0 {
+  background-color: transparent;
+}
+
+.childWrapper-anI2G9 {
+  background-color: rgba(0, 0, 0, .38);
+  color: white;
+}
+
+.progress-3Rbvu0[style*="background-color: rgb(233, 231, 231);"] {
+  background-color: transparent !important;
+}
+
+.theme-dark .attachment-33OFj0, .embedFull-2tM8--, .wrapper-35wsBm {
+  border-color: transparent;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .checkboxContainer-2vV9zd:before {
+  background-color: transparent;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker {
+  background-color: transparent;
+  border-radius: 5px;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--next, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__navigation.react-datepicker__navigation--previous {
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, .3);
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__header {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+  background-color: transparent;
+}
+
+.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
+  background-color: rgba(0, 0, 0, .46);
+  border-color: transparent;
+}
+
+.privateChannels-1nO12o, .scroller-1JbKMe, .theme-dark .container-1D34oG,
+.nowPlayingColumn-2sl4cE, .scroller-1IIF0A, .scroller-2XE8rp, .applicationStore-1pNvnv,
+.scroller-9moviB {
+  background: none;
+}
+
+.theme-dark .children-19S4PO:after, .theme-dark .form-2fGMdU:before, .theme-dark .option-96V44q.selected-rZcOL-:after,
+.theme-dark .option-96V44q:after, .divider-3FBTu8 {
+  background: none;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 43, 93, 0.225);
+  border-color: transparent;
+  border-width: 3px;
+}
+
+.scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar, .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar {
+  width: 0;
+}
+
+.scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 43, 93, 0.225);
+  border-width: 3px;
+}
+
+.scroller-2FKFPG::-webkit-scrollbar-thumb, .scroller-2FKFPG::-webkit-scrollbar-track {
+  border-radius: 4px;
+}
+
+.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+  background-color: transparent;
+  border: none;
+  border-radius: 3px;
+}
+
+.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
+.scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, 
+.theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
+.theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.scrollableContainer-2NUZem {
+  background-color: transparent;
+}
+
+.status-1WEaea.voice-3bPYC- {
+  background-color: #9b2742;
+  border-radius: 4px;
+}
+
+.root-SR8cQa {
+  background-color: transparent;
+  background: linear-gradient(342deg, rgba(0,0,0,1) 10%, #9b2742 100%);
+}
+/*-----secondarySection-----*/
+.theme-dark .keybindShortcutTipsSelect-HDyfe8:last-of-type:before, .scroller-zPkAnE {
+  background-color: transparent;
+}
+
+.theme-dark .expandedFolderBackground-1cujaW,
+.theme-dark .expandedFolderBackground-1cujaW.hover-2ji_A7 {
+  border-radius: 15px;
+  background-color: rgba(0, 0, 0, 0.327);
+  height: 99%;
+}
+
+.theme-dark .pageWrapper-1PgVDX {
+  background-color: transparent;
+}
+
+.theme-dark .searchBox-3Y2Vi7 {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.guildSeparator-3s64Iy, .scroller-2TZvBN, .wrapper-1Rf91z {
+  background: none;
+}
+/*backGroundImg.viewEnd*/
+
+.channelTextArea-rNsIhG {
+  background-color: rgba(0, 0, 0, .4);
+}
+
+.stickyHeader-1pqx0j, .header-2o-2hj, .container-3baos1, .container-1giJp5 {
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: none;
+}
+
+.scroller-2TZvBN {
+  background-color: rgba(0, 0, 0, .275);
+}
+
+.searchBar-6Kv8R2 {
+  background-color: rgba(0, 0, 0, .38);
+}
+
+.header-2RyJ0Y,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    font-size: 16px;
+    font-weight: 525;
+    text-transform: capitalize;
+    color: rgba(196, 0, 65, 0.781);
+}
+
+.headerText-2F0828 {
+  color: rgb(192, 35, 140);
+}
+/* -- */
+
+/* Fills Whole Icon */
+.clickable-3rdHwn foreignObject[mask] {
+  mask: none;
+}
+
+.iconBadge-qZ4Ksk {
+  position: absolute;
+  right: 2px;
+  bottom: 1px;
+  width: 10px;
+  height: 10px;
+  border-radius: 8px;
+  background-color: #c21e8be5;
+  border: 1px solid rgba(255, 255, 255, 0.41);
+}
+/* -- */
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: rgba(255, 128, 255, 0.242) !important;
+}
+.side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover,
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
+    background-color: rgba(255, 128, 255, 0.125);
+}
+.side-8zPYf6 .item-PXvHYJ,
+#bd-settings-sidebar .ui-tab-bar-item {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 6px;
+}
+
+.background-1QDuV2 {
+  background-color: rgba(0, 0, 0, 0.407);
+  border: 2px solid #580025;
+}
+
+.fieldList-21DyL8 {
+  background-color: rgba(0, 0, 0, 0.407);
+}
+
+.base-PmTxvP {
+  border-radius: 12px;
+  min-width: 18px;
+  min-height: 18px;
+}
+
+.activityPanel-28dQGo {
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.members-1998pB,
+.members-1998pB>div {
+    background-color: rgba(0, 0, 0, .25);
+}
+
+.theme-dark .closeButton-1tv5uR {
+  border-color: #580025;
+}
+
+.theme-dark .closeButton-1tv5uR:hover {
+  background-color: #97003fb6;
+}
+
+.userPopout-3XzG_A {
+  box-shadow: none;
+  border-radius: 17px;
+  background-size: cover;
+  background: url(https://media1.tenor.com/images/d966251589bce4e5db91cfb5aa4277e6/tenor.gif?itemid=14732606) 50%/cover;
+}
+
+.theme-dark .headerNormal-T_seeN {
+  background-color: rgba(122, 27, 82, 0.247);
+}
+
+.headerPlaying-j0WQBV {
+  background: rgba(177, 0, 103, 0.247);
+}
+
+.headerSpotify-zpWxgT {
+  background: #00db4d77;
+}
+
+.headerStreaming-2FjmGz {
+  background: rgba(65, 20, 113, 0.575);
+}
+
+.theme-dark .body-3iLsc4,
+.theme-dark .bodyInner-245q0L,
+.theme-dark .footer-1fjuF6 {
+  background-color: rgba(0, 0, 0, 0.47);
+  color: white;
+}
+
+.reduce-motion .userPopout-3XzG_A {
+	transform:translateZ(0);
+}
+
+.theme-dark .footer-1fjuF6 {
+  border-color: transparent;
+}
+
+.theme-dark .body-3iLsc4,
+.theme-dark .bodyInner-245q0L,
+.theme-dark .footer-1fjuF6 {
+  background-color: rgba(0, 0, 0, 0.47);
+  color: white;
+}
+
+.userPopout-3XzG_A  .header-2BwW8b,
+.userPopout-3XzG_A  .scroller-2FKFPG,
+.userPopout-3XzG_A  .footer-1fjuF6 {
+  z-index: 1;
+}
+
+.styleFlexible-wGDiIL,
+.container-3cGP6G,
+.submenu-2-ysNh {
+  border-radius: 12px;
+  background-color: rgb(0, 0, 0);
+  border: 2px solid #580025;
+  box-shadow: none;
+}
+
+.theme-dark .uploadModal-2ifh8j .footer-3mqk7D {
+  background-color: transparent;
+  padding: 13px;
+}
+
+.theme-dark .uploadModal-2ifh8j {
+  background: linear-gradient(45deg, #af326c 0%, rgba(43, 0, 32, 0.829) 40%);
+  background-size: cover;
+  border-radius: 10px;
+}
+
+.scrollableContainer-2NUZem {
+  background: linear-gradient(to right, rgba(206, 107, 190, 0.267) 0%,rgba(94, 0, 44, 0.158) 100%);
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #580025;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+  background-color: #97003fb6;
+}
+
+.theme-dark .folder-1hbNCn,
+.theme-dark .folder-1hbNCn.hover-qTxTR_ {
+  background-color: rgba(0, 0, 0, 0.427);
+}
+
+.folderIconWrapper-1_bOZe {
+  border-radius: 0px;
+  overflow: visible;
+}
+
+.circleIconButton-1QV--U {
+  color: #580025;
+  border: 2px solid #580025 !important;
+  background-color: #97003f11;
+  border-radius: 40px !important;
+}
+
+.wrapper-3NnKdC, .scroller-1Bvpku,
+.avatarUploaderInner-3UNxY3 {
+  background-color: transparent;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV {
+  background-color: transparent;
+  border: 2px solid #580025;
+}
+
+.lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+  background-color: #97003fb6;
+}
